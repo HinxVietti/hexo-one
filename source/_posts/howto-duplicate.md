@@ -1,6 +1,6 @@
-```
+---
 title: How to duplicate this site.
-```
+---
 
 
 
