@@ -1,0 +1,3 @@
+[submodule "themes/sky-hinx"]
+	path = themes/sky-hinx
+	url = https://github.com/HinxVietti/hexo-theme-sky
