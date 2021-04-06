@@ -1,5 +1,6 @@
 ---
 title: This is an sample case for vercel (Hexo.app)
+date: 2021-03-25 14:27:24
 ---
 
 
