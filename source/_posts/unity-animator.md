@@ -1,7 +1,7 @@
 ---
 title: unity-animator
 date: 2021-04-06 14:27:24
-tags:unity,animator,C#
+tags: [unity,animator,C#]
 ---
 
 # Unity
@@ -28,7 +28,7 @@ description : The AnimatorControllerParameter list used by the animator. (Read O
 
 #### nameHash @int
 
-#### type @[AnimatorControllerParameterType](#Enum:AnimatorControllerParameterType)
+#### type @[AnimatorControllerParameterType](#AnimatorControllerParameterType)
 
 ##### enums
 
