@@ -1,7 +1,7 @@
 ---
 title: install-unlocker-for-vmware-to-unlock-macOS
 date: 2021-04-09 15:33:13
-tags:[mac,macos,os,unlocker,vmware]
+tags: [mac,macos,os,unlocker,vmware]
 ---
 
 # Unlocker
